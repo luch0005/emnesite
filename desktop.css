@@ -1,0 +1,65 @@
+h1 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 70px;
+  padding-left: 65px;
+  padding-top: 45px;
+}
+
+h2 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 30px;
+  padding-left: 55px;
+  padding-right: 55px;
+  padding-top: 55px;
+}
+
+p {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  padding-left: 55px;
+  padding-right: 55px;
+}
+
+.footer-h2 {
+  padding-left: 70px;
+  font-size: 20px;
+}
+
+.footer-tekst {
+  padding-left: 70px;
+  font-size: 13px;
+}
+
+.advarsel {
+  color: rgb(237, 110, 110);
+}
+
+.festivaler {
+  padding-left: 55px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.roskilde-indhold {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+}
+
+.roskilde-billeder {
+  width: 500px;
+  height: auto;
+  padding-left: 100px;
+}
+
+.pakkeliste {
+  padding-left: 55px;
+  padding-right: 55px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  gap: 10px;
+}
+
+.tipsliste {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  padding-left: 55px;
+  padding-right: 55px;
+}
